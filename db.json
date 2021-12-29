@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Anil",
+      "email": "anil@test.com",
+      "mobile": 1111,
+      "id": 1,
+      "userName": "anil",
+      "password": "anil123",
+      "city": "Noida"
+    },
+    {
+      "name": "Jane",
+      "email": "jane@test.com",
+      "mobile": 2222,
+      "id": 2,
+      "userName": "jane",
+      "password": "jane123",
+      "city": "Noida"
+    },
+    {
+      "name": "Peter",
+      "email": "peter@test.com",
+      "mobile": 3333,
+      "id": 3,
+      "userName": "peter",
+      "password": "peter123",
+      "city": "Noida"
+    },
+    {
+      "id": 4,
+      "name": "Sidhu",
+      "email": "sidhu@test.com",
+      "mobile": 4444,
+      "userName": "sidhu",
+      "password": "sidhu123",
+      "city": "Noida"
+    },
+    {
+      "id": 5,
+      "name": "Parker",
+      "email": "parker@test.com",
+      "mobile": 5555,
+      "userName": "parker",
+      "password": "parker123",
+      "city": "Noida"
+    },
+    {
+      "name": "John",
+      "email": "john@test.com",
+      "mobile": 6666,
+      "id": 6,
+      "userName": "john",
+      "password": "john123",
+      "city": "Noida"
+    },
+    {
+      "name": "Tony",
+      "email": "tony@test.com",
+      "mobile": 7777,
+      "id": 7,
+      "userName": "tony",
+      "password": "tony123",
+      "city": "Noida"
+    },
+    {
+      "name": "stark",
+      "email": "stark@test.com",
+      "mobile": "8888",
+      "id": 8,
+      "userName": "stark",
+      "password": "stark123",
+      "city": "Noida"
+    }
+  ]
+}
